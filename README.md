@@ -4,14 +4,15 @@ A simple web-based Spotify clone built using **HTML, CSS, and JavaScript**. This
 
 ## 🚀 Live Demo
 
-[🔗 Click here to see the live demo](https://your-deployment-link.com)  
-*(Replace with your GitHub Pages, Vercel, or Netlify link)*
+[🔗 Click here to see the live demo]([https://your-deployment-link.com](https://pradipmaitymp3-e55bc8.netlify.app/))  
+
 
 ---
 
 ## 📸 Screenshots
 
-![Screenshot 1](./screenshots/home.png)  
+![Screenshot 1](![image](https://github.com/user-attachments/assets/a4d2a031-461b-4aea-a16f-934a41a967dd)
+)  
 *Spotify-like interface with play/pause controls*
 
 ---
